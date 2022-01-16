@@ -1,0 +1,11 @@
+# Ignore word files
+*.docx
+*.doc
+
+#Ignore excel and csv files
+*.xlsx
+*.csv
+
+#Ignore fotos and pictures
+*.png
+*.jpeg
